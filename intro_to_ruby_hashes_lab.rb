@@ -2,7 +2,6 @@ def base_hash
   base_hash = {
     :railoads => {}
   }
-
 end
 
 def monopoly_with_second_tier
