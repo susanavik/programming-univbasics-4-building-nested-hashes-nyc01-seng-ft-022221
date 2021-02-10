@@ -7,7 +7,7 @@ end
 
 def monopoly_with_second_tier
   base_hash = {
-    :railoads => {}
+    :railroads => {}
   }
   base_hash
 
