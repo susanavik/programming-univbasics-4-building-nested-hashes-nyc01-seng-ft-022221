@@ -2,6 +2,7 @@ def base_hash
   base_hash = {
     railoads: {}
   }
+  base_hash
 end
 
 def monopoly_with_second_tier
